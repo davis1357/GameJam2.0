@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Lucas
+  m_EditorClassIdentifier: 
+  info: 'Name: Lucas
+
+    Age: 31
+
+    Hobby: Playing the piano
+
+    Job: Chef
+
+    Good
+    Side: Makes amazing food
+
+    Bad Side: The things he lets out after eating it
+    all.
+
+    Favorite Quote: That one popular song about letting go? it''s About
+    Bodily gas. You Go listen to it and come back to me. After you reluctently agree
+    he says:  History is filled with songs Praising the Art of Gas. This guy makes
+    you nervous...
+
+
+    He coocks to express himself. His special dish is the LeFartiTuti.
+
+    He
+    belives the proccesing food and letting it out of your system are connected in
+    a mythical way. No one knows what that means though.'
+  afterRecruitInfo: 'His food is so good That it makes evreyone happy, but his farts
+    are always creeping up on you at night, Prevnting you from getting the sleep
+    you need., making everyone restless, doing stupid things. One day you also realize
+    why you have less budget: he buys so. much. food.
+
+'

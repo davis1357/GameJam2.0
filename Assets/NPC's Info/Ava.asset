@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Ava
+  m_EditorClassIdentifier: 
+  info: 'Name: Ava
+
+    Age: 19
+
+    Hobby: Cooking
+
+    Job: Freelance graphic designer
+
+    Good
+    Side: Perfectionist
+
+    Bad Side: Also requires perfection from everything around
+    here. Everything.
+
+    Favorite Quote: Unity. Precision. Perfection
+
+
+    She
+    is the classic perfect, highschool girl that no one likes because she bosses
+    them arount to be perfect to her eyes. But she also has a sharp tongue, quick
+    thinking and an eye for spotting bullshit.'
+  afterRecruitInfo: 'She is getting right to the buisnees!
+
+    She makes Charts
+    and awasome infographics about your revolution. She created the finance office
+    in the revolution just to create a finance report.
+
+    From her charts you
+    see That the situtauion is bad. But hey! You sell the chart template to other
+    secret revolutions against crazy mayors.'

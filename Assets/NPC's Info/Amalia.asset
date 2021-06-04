@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Amalia
+  m_EditorClassIdentifier: 
+  info: 'Name: Amalia
+
+    Age: ???
+
+    Hobby: Kickboxing
+
+    Job: Lion tamer.
+    Currently in pension(?)
+
+    Good Side: Always telling stories :)
+
+    Bad Side:
+    always telling stories :(
+
+    Favorite Quote: If it''s not risky. what''s the
+    fun?
+
+
+    Amalia is an adrenaline junkie afraid of nothing. when she was younger
+    she spent most of her days doing extreme sports and living the wild life. now
+    she is still living wild as she can. she may be old ( Never ask a woman''s age
+    young man) but her spirit is young.'
+  afterRecruitInfo: "Well, You always knew you wanted a lion in your revolution but
+    you dont know what you are going to do with it. Amalia Knows, and she gives each
+    of you a lion that you will ride on the street.\r\nYou are Excited just like
+    a 28 Years old riding a lion towards the revolution of his life\r.\nBy the way,
+    lions shit about 7 times a Day\r. But you don't care. You ride a lion!\n"

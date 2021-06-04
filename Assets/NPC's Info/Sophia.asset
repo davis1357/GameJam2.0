@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Sophia
+  m_EditorClassIdentifier: 
+  info: 'Name: Sophia
+
+    Age: 28
+
+    Hobby: Almond
+
+    Job: Teacher
+
+    Good
+    Side: Keeping order
+
+    Bad Side: Always acting like a teacher. always. with
+    anyone. it''s annoying...
+
+    Favorite Quote: Careful there. I wil always know
+    if you behaved wrong!
+
+
+    This young techer is very grounded to earth and can
+    really help with the revolution while keeping dicipline. On the other hand, no
+    one likes a pushy teacher.'
+  afterRecruitInfo: When Sophia get recruited she doesn't waste any time. She starts
+    by educating everyone, making everyone apologize when fighting and all of the
+    other annoying teacher things available to her. She does not seem to realize
+    you are all adult. On one side she makes you all use your money with more caution
+    but damn! She is annoying She took down morale.

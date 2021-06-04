@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Benjamin
+  m_EditorClassIdentifier: 
+  info: 'Name: Benjamin
+
+    Age: 23
+
+    Hobby: Writing his health blog
+
+    Job:
+    Personal trainer
+
+    Good Side: Sensitive
+
+    Bad Side: does not tolerate unhealthy
+    life. at all
+
+    Favorite Quote: Only the weights can judge me
+
+
+    He is good
+    looking in that annoying way where you can''t stop looking at him while hating
+    him for being so pretty and yourself for not being like that.'
+  afterRecruitInfo: "Benjamin is getting ready to pump those muscles and lift cars.\r\nHe
+    starts telling you how you need to get fit and ready towards this revolution.\r\nAt
+    4 AM the next morning you all arrive to the workout only to find Benjamin standing
+    next to a penguin.\r\nHe tells you to stay calm and he will eventually go away.
+    Do not move any muscle. 4 Hours later the penguin collapses and dies.\nBenjamin
+    starts to sing We Are the Champions, and right then you notice the hallucination
+    shroom\rs.\nGod dammint Benjaman, you made a big rucus, used the budget for shrooms
+    and destroyed your reputation all in the same day."

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Mia
+  m_EditorClassIdentifier: 
+  info: 'Name: Mia
+
+    Age: 20
+
+    Hobby: Going to heavy metal concerts
+
+    Job:
+    Fashion designer
+
+    Good Side: She can always win when it comes to a fist fight
+
+    Bad
+    Side: She can easily get in a fist fight
+
+    Favorite Quote: Always look fabulous.
+    When you wake up, when you go to sleep. When you make someone go to sleep and
+    when your fist meets their jaw.
+
+
+    She is alwyes well dreesed and have the
+    best tips on where to buy clothes that match your personal style as well as on
+    how to knock out someone. '
+  afterRecruitInfo: 'After joining, Mia teaches you the ancient, mystic art of hand
+    to hand combat and of matching the colors of your clothes.
+
+    You are Well
+    dresed and well Prepard. Sadly, you are also attracting notice with your fabulous
+    style.'

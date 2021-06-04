@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66c3757c474cd43b05e4f96e343625, type: 3}
+  m_Name: Isabella
+  m_EditorClassIdentifier: 
+  info: 'Name: Isabella
+
+    Age: 25
+
+    Hobby: Watching judge Mody
+
+    Job: Lawyer
+
+    Good
+    Side: Can immitate MIchael Jackson in a perfect way
+
+    Bad Side: Remembers
+    everything you say. It can and will be used against you later on
+
+    Favorite
+    Quote: Let''s get rid of all the lawyers. Except for me
+
+
+    Isabella has watched
+    all 14 seeason of judge Mody - a fictional Sci fi show where after Modi survives
+    ragnarok, he judges all the norse gods for being jerks.'
+  afterRecruitInfo: After getting kicked by the mayor from her upcoming role as the
+    next supreme judge, she decided to dedicate herself fully to overthrow him. Even
+    if it means using everything she knows to operate below the law. She helps the
+    revolution in becoming more secretive and escaping the law.Sadly, she is so vengfull
+    that people are very much scared of her, bringing down the morale.
