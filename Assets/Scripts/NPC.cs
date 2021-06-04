@@ -44,6 +44,7 @@ public class NPC : MonoBehaviour
 
     private void CheckingNPC()
     {
+        FindObjectOfType<Movement>().isMoving = false;
         canvas.gameObject.SetActive(true);
         image.sprite = GetComponent<SpriteRenderer>().sprite;
         //TOdO: disable movement until exit out of info
@@ -51,13 +52,11 @@ public class NPC : MonoBehaviour
         {
             recruitText.text = "Recruit? \n Y-Yes N-No";
             textComponent.text = info.GetInfo();
-            FindObjectOfType<Movement>().isMoving = false;
         }
         else
         {
             recruitText.text = "Press N to go Back";
             textComponent.text = "You already made this one join your cause";
-            FindObjectOfType<Movement>().isMoving = false;
         }
     }
 

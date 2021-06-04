@@ -21,6 +21,8 @@ public class Movement : MonoBehaviour
             CheckMovement();
             ProcessInputs();
         }
+        else
+        { myRigidBody.velocity = new Vector2(0, 0); }
     }
 
     private void FixedUpdate()

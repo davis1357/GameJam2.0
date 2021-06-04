@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class RecruitCounter : MonoBehaviour
 {
+    [SerializeField] StartAndEndTexts winText;
+
     public int counter = 0;
 
     // Update is called once per frame
@@ -12,7 +14,7 @@ public class RecruitCounter : MonoBehaviour
         if(counter>=5)
         {
             FindObjectOfType<Movement>().isMoving = false;
-            FindObjectOfType<StartAndEndTexts>().WinText();
+            winText.WinText();
         }
     }
 }
